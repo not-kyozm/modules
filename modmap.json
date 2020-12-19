@@ -1,0 +1,16 @@
+[
+    {
+        "name": "MapPreview",
+        "dev": ["MapPreview.java"],
+        "obf": ["MapPreview.class", "MapPreview$MapPreviewWidget.class"],
+        "moduleVersion": "0.1",
+        "minVersion": "0.3"
+    },
+    {
+        "name": "ShulkerPreview",
+        "dev": ["ShulkerPreview.java"],
+        "obf": ["ShulkerPreview.class"],
+        "moduleVersion": "0.1",
+        "minVersion": "0.3"
+    }
+]
