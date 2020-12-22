@@ -221,7 +221,7 @@ public class MapPreview extends Module {
 
             if (InputUtils.wasKeybindJustPressed(MapPreview.copyTooltip.getVal())) {
                 MapData md = MapUtils.mapDataFromStack(MapPreview.tooltipStack);
-                Minecraft.getMinecraft().player.sendMessage(new TextComponentString("[NanoUtils] Copied map data to Clipboard"));
+                Minecraft.getMinecraft().player.sendMessage(new TextComponentString("[NanoUtils] Copied map data to Clipboarde"));
                 Clipboard.writeImageToClipboard(MapUtils.mapToImage(md.colors, MapPreview.clipboardScale.getVal()));
             }
         }
