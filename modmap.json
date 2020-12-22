@@ -3,7 +3,7 @@
         "name": "MapPreview",
         "dev": ["MapPreview.java"],
         "obf": ["MapPreview.class", "MapPreview$MapPreviewWidget.class"],
-        "moduleVersion": "0.1.1",
+        "moduleVersion": "0.1.2",
         "minVersion": "0.3",
         "main": "MapPreview"
     },
